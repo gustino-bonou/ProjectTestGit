@@ -17,7 +17,11 @@ class PageController   extends Controller{
 
        $this->set('post', $post);
 
+       echo "Modification fichier de V01";
+
 
     }
+
+   
     
 }
